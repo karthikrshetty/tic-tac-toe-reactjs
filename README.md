@@ -66,20 +66,6 @@ The game consists of three main components:
 - **Board**: The 3x3 grid of squares
 - **Game**: Top-level component managing game state and history
 
-## Learning Journey
-
-This project is part of my daily learning journey with React. It helped me understand how React's component-based architecture makes it easy to build interactive UIs with predictable state management.
-
-## Next Steps
-
-Potential enhancements to explore:
-- Display the location (row, col) for each move in the history list
-- Bold the currently selected move in the list
-- Rewrite Board to use loops instead of hardcoding squares
-- Add a toggle to sort moves in ascending or descending order
-- Highlight the winning squares
-- Display a draw message when no one wins
-
 ## Resources
 
 - [React Documentation](https://react.dev)
